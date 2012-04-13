@@ -1,3 +1,7 @@
+# Private Information Manager JavaScript Application
+
+It is a POC to lern to use &lt;angular/&gt; based on angular-seed (see below)
+
 # angular-seed — the seed for &lt;angular/&gt; apps
 
 This project is an application skeleton for a typical [angular](http://angularjs.org/) web app. You
